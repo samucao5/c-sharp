@@ -1,0 +1,22 @@
+comando para criar pastas dotnet no terminal
+
+dotnet new console -n nome_definido -use-program-main
+ou
+dotnet new console --use-program-main
+
+para compilar
+OBS: dentro da pasta do arquivo 
+
+dotnet build 
+
+para executar
+
+dotnet run
+
+limpar a tela:
+linux: clear
+
+windows: cls
+
+
+
