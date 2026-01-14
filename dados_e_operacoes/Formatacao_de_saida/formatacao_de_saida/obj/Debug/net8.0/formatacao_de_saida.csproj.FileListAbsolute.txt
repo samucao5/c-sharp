@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/bin/Debug/net8.0/formatacao_de_saida
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/bin/Debug/net8.0/formatacao_de_saida.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/bin/Debug/net8.0/formatacao_de_saida.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/bin/Debug/net8.0/formatacao_de_saida.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/bin/Debug/net8.0/formatacao_de_saida.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/refint/formatacao_de_saida.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/formatacao_de_saida.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Formatacao_de_saida/formatacao_de_saida/obj/Debug/net8.0/ref/formatacao_de_saida.dll
