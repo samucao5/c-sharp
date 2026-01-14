@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/bin/Debug/net8.0/Aula00
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/bin/Debug/net8.0/Aula00.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/bin/Debug/net8.0/Aula00.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/bin/Debug/net8.0/Aula00.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/bin/Debug/net8.0/Aula00.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/refint/Aula00.dll
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/Aula00.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/Aula00/obj/Debug/net8.0/ref/Aula00.dll
