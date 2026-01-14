@@ -1,6 +1,6 @@
 comando para criar pastas dotnet no terminal
 
-dotnet new console -n nome_definido -use-program-main
+dotnet new console -n nome_definido --use-program-main
 ou
 dotnet new console --use-program-main
 
