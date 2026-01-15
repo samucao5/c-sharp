@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/bin/Debug/net8.0/dados_inteiros
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/bin/Debug/net8.0/dados_inteiros.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/bin/Debug/net8.0/dados_inteiros.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/bin/Debug/net8.0/dados_inteiros.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/bin/Debug/net8.0/dados_inteiros.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/refint/dados_inteiros.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/dados_inteiros.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_inteiros/dados_inteiros/obj/Debug/net8.0/ref/dados_inteiros.dll
