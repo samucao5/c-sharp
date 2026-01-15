@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/bin/Debug/net8.0/numericos_decimais
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/bin/Debug/net8.0/numericos_decimais.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/bin/Debug/net8.0/numericos_decimais.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/bin/Debug/net8.0/numericos_decimais.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/bin/Debug/net8.0/numericos_decimais.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/refint/numericos_decimais.dll
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/numericos_decimais.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/dados_numericos_decimais/numericos_decimais/obj/Debug/net8.0/ref/numericos_decimais.dll
