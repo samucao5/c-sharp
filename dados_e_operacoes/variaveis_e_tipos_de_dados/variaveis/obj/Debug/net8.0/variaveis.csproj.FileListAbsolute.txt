@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/bin/Debug/net8.0/variaveis
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/bin/Debug/net8.0/variaveis.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/bin/Debug/net8.0/variaveis.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/bin/Debug/net8.0/variaveis.dll
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/bin/Debug/net8.0/variaveis.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.dll
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/refint/variaveis.dll
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/variaveis.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/variaveis_e_tipos_de_dados/variaveis/obj/Debug/net8.0/ref/variaveis.dll
