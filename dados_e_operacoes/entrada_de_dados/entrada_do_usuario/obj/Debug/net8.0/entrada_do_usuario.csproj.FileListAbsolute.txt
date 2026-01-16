@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/bin/Debug/net8.0/entrada_do_usuario
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/bin/Debug/net8.0/entrada_do_usuario.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/bin/Debug/net8.0/entrada_do_usuario.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/bin/Debug/net8.0/entrada_do_usuario.dll
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/bin/Debug/net8.0/entrada_do_usuario.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.dll
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/refint/entrada_do_usuario.dll
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/entrada_do_usuario.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/entrada_de_dados/entrada_do_usuario/obj/Debug/net8.0/ref/entrada_do_usuario.dll
