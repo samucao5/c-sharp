@@ -15,7 +15,7 @@ class Program
         double temperatura = 34.3;
         //tem que colocar o sufixo m no final 
         decimal pi = 3.1415926535897932384m;
-
+        
         Console.WriteLine(num1);
         Console.WriteLine(temperatura);
         Console.WriteLine(pi);
