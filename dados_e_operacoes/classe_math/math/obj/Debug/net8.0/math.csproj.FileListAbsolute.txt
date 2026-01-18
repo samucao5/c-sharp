@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/bin/Debug/net8.0/math
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/bin/Debug/net8.0/math.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/bin/Debug/net8.0/math.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/bin/Debug/net8.0/math.dll
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/bin/Debug/net8.0/math.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.dll
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/refint/math.dll
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/math.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/classe_math/math/obj/Debug/net8.0/ref/math.dll
