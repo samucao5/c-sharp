@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/bin/Debug/net8.0/conversao_de_dados
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/bin/Debug/net8.0/conversao_de_dados.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/bin/Debug/net8.0/conversao_de_dados.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/bin/Debug/net8.0/conversao_de_dados.dll
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/bin/Debug/net8.0/conversao_de_dados.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.dll
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/refint/conversao_de_dados.dll
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/conversao_de_dados.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/conversao_de_dados_string/conversao_de_dados/obj/Debug/net8.0/ref/conversao_de_dados.dll
