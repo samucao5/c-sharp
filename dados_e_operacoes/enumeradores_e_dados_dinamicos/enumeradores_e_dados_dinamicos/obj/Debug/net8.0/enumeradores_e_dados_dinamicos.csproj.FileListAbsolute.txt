@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/bin/Debug/net8.0/enumeradores_e_dados_dinamicos
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/bin/Debug/net8.0/enumeradores_e_dados_dinamicos.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/bin/Debug/net8.0/enumeradores_e_dados_dinamicos.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/bin/Debug/net8.0/enumeradores_e_dados_dinamicos.dll
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/bin/Debug/net8.0/enumeradores_e_dados_dinamicos.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.dll
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/refint/enumeradores_e_dados_dinamicos.dll
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/enumeradores_e_dados_dinamicos.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/enumeradores_e_dados_dinamicos/enumeradores_e_dados_dinamicos/obj/Debug/net8.0/ref/enumeradores_e_dados_dinamicos.dll
