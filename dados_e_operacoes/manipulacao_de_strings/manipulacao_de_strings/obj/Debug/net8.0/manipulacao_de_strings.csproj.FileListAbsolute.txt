@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/bin/Debug/net8.0/manipulacao_de_strings
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/bin/Debug/net8.0/manipulacao_de_strings.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/bin/Debug/net8.0/manipulacao_de_strings.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/bin/Debug/net8.0/manipulacao_de_strings.dll
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/bin/Debug/net8.0/manipulacao_de_strings.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.dll
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/refint/manipulacao_de_strings.dll
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/manipulacao_de_strings.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/manipulacao_de_strings/manipulacao_de_strings/obj/Debug/net8.0/ref/manipulacao_de_strings.dll

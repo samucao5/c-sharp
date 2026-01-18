@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "manipulacao_de_strings/1.0.0": {
+        "runtime": {
+          "manipulacao_de_strings.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "manipulacao_de_strings/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
