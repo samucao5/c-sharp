@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.AssemblyInfo.cs
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/bin/Debug/net8.0/ex_5
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/bin/Debug/net8.0/ex_5.deps.json
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/bin/Debug/net8.0/ex_5.runtimeconfig.json
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/bin/Debug/net8.0/ex_5.dll
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/bin/Debug/net8.0/ex_5.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.dll
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/refint/ex_5.dll
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.pdb
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ex_5.genruntimeconfig.cache
+/home/samuel/codigos/C#/dados_e_operacoes/exercicios/exercicio_5/ex_5/obj/Debug/net8.0/ref/ex_5.dll
