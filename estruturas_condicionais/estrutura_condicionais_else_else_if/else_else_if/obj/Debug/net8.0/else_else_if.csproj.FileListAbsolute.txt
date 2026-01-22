@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/bin/Debug/net8.0/else_else_if
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/bin/Debug/net8.0/else_else_if.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/bin/Debug/net8.0/else_else_if.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/bin/Debug/net8.0/else_else_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/bin/Debug/net8.0/else_else_if.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/refint/else_else_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/else_else_if.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_else_else_if/else_else_if/obj/Debug/net8.0/ref/else_else_if.dll
