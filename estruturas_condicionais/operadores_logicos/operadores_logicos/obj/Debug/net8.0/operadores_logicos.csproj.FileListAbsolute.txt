@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/bin/Debug/net8.0/operadores_logicos
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/bin/Debug/net8.0/operadores_logicos.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/bin/Debug/net8.0/operadores_logicos.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/bin/Debug/net8.0/operadores_logicos.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/bin/Debug/net8.0/operadores_logicos.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/refint/operadores_logicos.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/operadores_logicos.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_logicos/operadores_logicos/obj/Debug/net8.0/ref/operadores_logicos.dll
