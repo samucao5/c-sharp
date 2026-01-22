@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/bin/Debug/net8.0/condicional_if
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/bin/Debug/net8.0/condicional_if.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/bin/Debug/net8.0/condicional_if.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/bin/Debug/net8.0/condicional_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/bin/Debug/net8.0/condicional_if.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/refint/condicional_if.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/condicional_if.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_if/condicional_if/obj/Debug/net8.0/ref/condicional_if.dll
