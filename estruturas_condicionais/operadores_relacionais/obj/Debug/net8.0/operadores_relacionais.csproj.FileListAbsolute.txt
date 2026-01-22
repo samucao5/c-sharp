@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/bin/Debug/net8.0/operadores_relacionais
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/bin/Debug/net8.0/operadores_relacionais.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/bin/Debug/net8.0/operadores_relacionais.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/bin/Debug/net8.0/operadores_relacionais.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/bin/Debug/net8.0/operadores_relacionais.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/refint/operadores_relacionais.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/operadores_relacionais.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operadores_relacionais/obj/Debug/net8.0/ref/operadores_relacionais.dll
