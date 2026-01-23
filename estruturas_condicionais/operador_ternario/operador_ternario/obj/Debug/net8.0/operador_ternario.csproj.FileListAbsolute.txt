@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/bin/Debug/net8.0/operador_ternario
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/bin/Debug/net8.0/operador_ternario.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/bin/Debug/net8.0/operador_ternario.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/bin/Debug/net8.0/operador_ternario.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/bin/Debug/net8.0/operador_ternario.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/refint/operador_ternario.dll
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/operador_ternario.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/operador_ternario/operador_ternario/obj/Debug/net8.0/ref/operador_ternario.dll
