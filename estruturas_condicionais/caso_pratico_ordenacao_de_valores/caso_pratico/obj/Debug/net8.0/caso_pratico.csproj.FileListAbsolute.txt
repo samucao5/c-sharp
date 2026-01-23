@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/bin/Debug/net8.0/caso_pratico
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/bin/Debug/net8.0/caso_pratico.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/bin/Debug/net8.0/caso_pratico.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/bin/Debug/net8.0/caso_pratico.dll
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/bin/Debug/net8.0/caso_pratico.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.dll
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/refint/caso_pratico.dll
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/caso_pratico.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/caso_pratico_ordenacao_de_valores/caso_pratico/obj/Debug/net8.0/ref/caso_pratico.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "caso_pratico/1.0.0": {
+        "runtime": {
+          "caso_pratico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "caso_pratico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
