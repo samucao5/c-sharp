@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/bin/Debug/net8.0/condicionais_compostas
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/bin/Debug/net8.0/condicionais_compostas.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/bin/Debug/net8.0/condicionais_compostas.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/bin/Debug/net8.0/condicionais_compostas.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/bin/Debug/net8.0/condicionais_compostas.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/refint/condicionais_compostas.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/condicionais_compostas.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_condicionais_compostas/condicionais_compostas/obj/Debug/net8.0/ref/condicionais_compostas.dll
