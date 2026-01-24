@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/bin/Debug/net8.0/projeto_eletrica
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/bin/Debug/net8.0/projeto_eletrica.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/bin/Debug/net8.0/projeto_eletrica.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/bin/Debug/net8.0/projeto_eletrica.dll
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/bin/Debug/net8.0/projeto_eletrica.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.dll
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/refint/projeto_eletrica.dll
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/projeto_eletrica.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/exercicios/projeto_eletrica/projeto_eletrica/obj/Debug/net8.0/ref/projeto_eletrica.dll
