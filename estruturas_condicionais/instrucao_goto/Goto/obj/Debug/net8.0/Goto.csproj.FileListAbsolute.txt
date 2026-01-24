@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/bin/Debug/net8.0/Goto
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/bin/Debug/net8.0/Goto.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/bin/Debug/net8.0/Goto.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/bin/Debug/net8.0/Goto.dll
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/bin/Debug/net8.0/Goto.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.dll
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/refint/Goto.dll
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/Goto.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/instrucao_goto/Goto/obj/Debug/net8.0/ref/Goto.dll
