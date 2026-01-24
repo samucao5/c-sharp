@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/bin/Debug/net8.0/switch_case
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/bin/Debug/net8.0/switch_case.deps.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/bin/Debug/net8.0/switch_case.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/bin/Debug/net8.0/switch_case.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/bin/Debug/net8.0/switch_case.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/refint/switch_case.dll
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.pdb
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/switch_case.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_condicionais/estrutura_switch_case/switch_case/obj/Debug/net8.0/ref/switch_case.dll
