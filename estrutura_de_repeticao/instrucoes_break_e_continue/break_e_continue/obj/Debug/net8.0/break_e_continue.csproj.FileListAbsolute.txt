@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/bin/Debug/net8.0/break_e_continue
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/bin/Debug/net8.0/break_e_continue.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/bin/Debug/net8.0/break_e_continue.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/bin/Debug/net8.0/break_e_continue.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/bin/Debug/net8.0/break_e_continue.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/refint/break_e_continue.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/break_e_continue.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/instrucoes_break_e_continue/break_e_continue/obj/Debug/net8.0/ref/break_e_continue.dll

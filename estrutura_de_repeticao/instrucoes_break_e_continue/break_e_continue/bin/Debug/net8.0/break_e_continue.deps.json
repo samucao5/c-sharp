@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "break_e_continue/1.0.0": {
+        "runtime": {
+          "break_e_continue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "break_e_continue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
