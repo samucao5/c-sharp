@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/bin/Debug/net8.0/loop
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/bin/Debug/net8.0/loop.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/bin/Debug/net8.0/loop.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/bin/Debug/net8.0/loop.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/bin/Debug/net8.0/loop.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/refint/loop.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/loop.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/caracteristicas_de_um_loop/loop/obj/Debug/net8.0/ref/loop.dll
