@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/bin/Debug/net8.0/while
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/bin/Debug/net8.0/while.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/bin/Debug/net8.0/while.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/bin/Debug/net8.0/while.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/bin/Debug/net8.0/while.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/refint/while.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/while.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_while/while/obj/Debug/net8.0/ref/while.dll
