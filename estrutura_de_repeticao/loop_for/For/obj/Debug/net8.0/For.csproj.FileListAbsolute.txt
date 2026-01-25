@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/bin/Debug/net8.0/For
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/bin/Debug/net8.0/For.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/bin/Debug/net8.0/For.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/bin/Debug/net8.0/For.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/bin/Debug/net8.0/For.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/refint/For.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/For.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/loop_for/For/obj/Debug/net8.0/ref/For.dll
