@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/bin/Debug/net8.0/incremento_e_decremento
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/bin/Debug/net8.0/incremento_e_decremento.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/bin/Debug/net8.0/incremento_e_decremento.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/bin/Debug/net8.0/incremento_e_decremento.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/bin/Debug/net8.0/incremento_e_decremento.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/refint/incremento_e_decremento.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/incremento_e_decremento.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/operadores_de_incremento_e_decremento/incremento_e_decremento/obj/Debug/net8.0/ref/incremento_e_decremento.dll
