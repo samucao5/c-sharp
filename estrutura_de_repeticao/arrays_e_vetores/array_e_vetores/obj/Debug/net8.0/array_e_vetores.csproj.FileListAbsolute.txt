@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/bin/Debug/net8.0/array_e_vetores
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/bin/Debug/net8.0/array_e_vetores.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/bin/Debug/net8.0/array_e_vetores.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/bin/Debug/net8.0/array_e_vetores.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/bin/Debug/net8.0/array_e_vetores.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/refint/array_e_vetores.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/array_e_vetores.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/arrays_e_vetores/array_e_vetores/obj/Debug/net8.0/ref/array_e_vetores.dll
