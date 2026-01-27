@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/bin/Debug/net8.0/matrizes
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/bin/Debug/net8.0/matrizes.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/bin/Debug/net8.0/matrizes.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/bin/Debug/net8.0/matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/bin/Debug/net8.0/matrizes.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/refint/matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/matrizes.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/matrizes_vetores_bidimensionais/matrizes/obj/Debug/net8.0/ref/matrizes.dll
