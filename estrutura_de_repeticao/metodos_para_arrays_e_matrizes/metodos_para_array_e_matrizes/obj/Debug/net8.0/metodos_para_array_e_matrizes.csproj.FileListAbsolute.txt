@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/bin/Debug/net8.0/metodos_para_array_e_matrizes
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/bin/Debug/net8.0/metodos_para_array_e_matrizes.deps.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/bin/Debug/net8.0/metodos_para_array_e_matrizes.runtimeconfig.json
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/bin/Debug/net8.0/metodos_para_array_e_matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/bin/Debug/net8.0/metodos_para_array_e_matrizes.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.AssemblyInfo.cs
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/refint/metodos_para_array_e_matrizes.dll
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.pdb
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/metodos_para_array_e_matrizes.genruntimeconfig.cache
+/home/samuel/codigos/C#/estrutura_de_repeticao/metodos_para_arrays_e_matrizes/metodos_para_array_e_matrizes/obj/Debug/net8.0/ref/metodos_para_array_e_matrizes.dll
