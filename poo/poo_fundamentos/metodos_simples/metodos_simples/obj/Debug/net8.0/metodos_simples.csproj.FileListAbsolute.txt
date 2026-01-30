@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/bin/Debug/net8.0/metodos_simples
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/bin/Debug/net8.0/metodos_simples.deps.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/bin/Debug/net8.0/metodos_simples.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/bin/Debug/net8.0/metodos_simples.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/bin/Debug/net8.0/metodos_simples.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/refint/metodos_simples.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/metodos_simples.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/metodos_simples/metodos_simples/obj/Debug/net8.0/ref/metodos_simples.dll
