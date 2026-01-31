@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/bin/Debug/net8.0/retorno
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/bin/Debug/net8.0/retorno.deps.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/bin/Debug/net8.0/retorno.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/bin/Debug/net8.0/retorno.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/bin/Debug/net8.0/retorno.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/refint/retorno.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/retorno.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/escopo_e_retorno/retorno/obj/Debug/net8.0/ref/retorno.dll
