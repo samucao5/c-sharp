@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/bin/Debug/net8.0/referencia
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/bin/Debug/net8.0/referencia.deps.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/bin/Debug/net8.0/referencia.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/bin/Debug/net8.0/referencia.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/bin/Debug/net8.0/referencia.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/refint/referencia.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/referencia.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/passagem_por_valor_e_referencia/referencia/obj/Debug/net8.0/ref/referencia.dll
