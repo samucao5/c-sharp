@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/bin/Debug/net8.0/parametros
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/bin/Debug/net8.0/parametros.deps.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/bin/Debug/net8.0/parametros.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/bin/Debug/net8.0/parametros.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/bin/Debug/net8.0/parametros.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/refint/parametros.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/parametros.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/parametros_argumentos/parametros/obj/Debug/net8.0/ref/parametros.dll
