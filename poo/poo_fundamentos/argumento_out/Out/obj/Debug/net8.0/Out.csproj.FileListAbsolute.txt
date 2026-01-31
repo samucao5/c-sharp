@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/bin/Debug/net8.0/Out
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/bin/Debug/net8.0/Out.deps.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/bin/Debug/net8.0/Out.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/bin/Debug/net8.0/Out.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/bin/Debug/net8.0/Out.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/refint/Out.dll
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.pdb
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/Out.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_fundamentos/argumento_out/Out/obj/Debug/net8.0/ref/Out.dll
