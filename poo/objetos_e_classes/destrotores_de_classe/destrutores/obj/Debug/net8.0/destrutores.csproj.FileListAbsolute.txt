@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/bin/Debug/net8.0/destrutores
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/bin/Debug/net8.0/destrutores.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/bin/Debug/net8.0/destrutores.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/bin/Debug/net8.0/destrutores.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/bin/Debug/net8.0/destrutores.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/refint/destrutores.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/destrutores.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/destrotores_de_classe/destrutores/obj/Debug/net8.0/ref/destrutores.dll
