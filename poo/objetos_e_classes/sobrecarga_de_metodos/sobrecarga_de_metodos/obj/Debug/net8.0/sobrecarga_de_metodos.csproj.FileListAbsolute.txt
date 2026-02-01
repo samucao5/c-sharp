@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/bin/Debug/net8.0/sobrecarga_de_metodos
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/bin/Debug/net8.0/sobrecarga_de_metodos.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/bin/Debug/net8.0/sobrecarga_de_metodos.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/bin/Debug/net8.0/sobrecarga_de_metodos.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/bin/Debug/net8.0/sobrecarga_de_metodos.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/refint/sobrecarga_de_metodos.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/sobrecarga_de_metodos.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/sobrecarga_de_metodos/sobrecarga_de_metodos/obj/Debug/net8.0/ref/sobrecarga_de_metodos.dll
