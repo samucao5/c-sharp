@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/bin/Debug/net8.0/construtor
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/bin/Debug/net8.0/construtor.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/bin/Debug/net8.0/construtor.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/bin/Debug/net8.0/construtor.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/bin/Debug/net8.0/construtor.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/refint/construtor.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/construtor.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/construtores_da_classes/construtor/obj/Debug/net8.0/ref/construtor.dll
