@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/bin/Debug/net8.0/criacao_de_classes
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/bin/Debug/net8.0/criacao_de_classes.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/bin/Debug/net8.0/criacao_de_classes.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/bin/Debug/net8.0/criacao_de_classes.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/bin/Debug/net8.0/criacao_de_classes.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/refint/criacao_de_classes.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/criacao_de_classes.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_classes/criacao_de_classes/obj/Debug/net8.0/ref/criacao_de_classes.dll
