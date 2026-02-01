@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/bin/Debug/net8.0/criacao_de_objeto
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/bin/Debug/net8.0/criacao_de_objeto.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/bin/Debug/net8.0/criacao_de_objeto.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/bin/Debug/net8.0/criacao_de_objeto.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/bin/Debug/net8.0/criacao_de_objeto.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/refint/criacao_de_objeto.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/criacao_de_objeto.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/criacao_de_objetos/criacao_de_objeto/obj/Debug/net8.0/ref/criacao_de_objeto.dll
