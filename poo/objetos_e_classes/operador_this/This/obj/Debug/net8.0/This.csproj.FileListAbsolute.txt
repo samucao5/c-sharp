@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/bin/Debug/net8.0/This
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/bin/Debug/net8.0/This.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/bin/Debug/net8.0/This.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/bin/Debug/net8.0/This.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/bin/Debug/net8.0/This.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/refint/This.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/This.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/operador_this/This/obj/Debug/net8.0/ref/This.dll
