@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/bin/Debug/net8.0/modificadores_de_acesso
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/bin/Debug/net8.0/modificadores_de_acesso.deps.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/bin/Debug/net8.0/modificadores_de_acesso.runtimeconfig.json
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/bin/Debug/net8.0/modificadores_de_acesso.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/bin/Debug/net8.0/modificadores_de_acesso.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/refint/modificadores_de_acesso.dll
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.pdb
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/modificadores_de_acesso.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/poo_objetos_e_classes/public_private_e_static/modificadores_de_acesso/obj/Debug/net8.0/ref/modificadores_de_acesso.dll
