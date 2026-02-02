@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/bin/Debug/net8.0/heranca
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/bin/Debug/net8.0/heranca.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/bin/Debug/net8.0/heranca.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/bin/Debug/net8.0/heranca.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/bin/Debug/net8.0/heranca.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/refint/heranca.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/heranca.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/heranca/heranca/obj/Debug/net8.0/ref/heranca.dll
