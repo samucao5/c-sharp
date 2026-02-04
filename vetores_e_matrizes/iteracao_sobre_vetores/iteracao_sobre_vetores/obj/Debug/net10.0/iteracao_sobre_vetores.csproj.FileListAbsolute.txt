@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.AssemblyInfo.cs
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/bin/Debug/net10.0/iteracao_sobre_vetores
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/bin/Debug/net10.0/iteracao_sobre_vetores.deps.json
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/bin/Debug/net10.0/iteracao_sobre_vetores.runtimeconfig.json
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/bin/Debug/net10.0/iteracao_sobre_vetores.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/bin/Debug/net10.0/iteracao_sobre_vetores.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/refint/iteracao_sobre_vetores.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/iteracao_sobre_vetores.genruntimeconfig.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_vetores/iteracao_sobre_vetores/obj/Debug/net10.0/ref/iteracao_sobre_vetores.dll
