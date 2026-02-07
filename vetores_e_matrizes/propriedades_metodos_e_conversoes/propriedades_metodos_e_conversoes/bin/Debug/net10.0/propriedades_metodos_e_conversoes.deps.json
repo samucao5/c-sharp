@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "propriedades_metodos_e_conversoes/1.0.0": {
+        "runtime": {
+          "propriedades_metodos_e_conversoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "propriedades_metodos_e_conversoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
