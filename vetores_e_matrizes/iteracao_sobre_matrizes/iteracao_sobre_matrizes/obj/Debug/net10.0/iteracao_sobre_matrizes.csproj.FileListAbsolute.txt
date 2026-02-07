@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.AssemblyInfo.cs
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/bin/Debug/net10.0/iteracao_sobre_matrizes
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/bin/Debug/net10.0/iteracao_sobre_matrizes.deps.json
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/bin/Debug/net10.0/iteracao_sobre_matrizes.runtimeconfig.json
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/bin/Debug/net10.0/iteracao_sobre_matrizes.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/bin/Debug/net10.0/iteracao_sobre_matrizes.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/refint/iteracao_sobre_matrizes.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/iteracao_sobre_matrizes.genruntimeconfig.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/iteracao_sobre_matrizes/iteracao_sobre_matrizes/obj/Debug/net10.0/ref/iteracao_sobre_matrizes.dll
