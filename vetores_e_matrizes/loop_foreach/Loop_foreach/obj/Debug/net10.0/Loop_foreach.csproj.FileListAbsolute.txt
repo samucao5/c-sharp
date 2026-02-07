@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.AssemblyInfo.cs
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/bin/Debug/net10.0/Loop_foreach
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/bin/Debug/net10.0/Loop_foreach.deps.json
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/bin/Debug/net10.0/Loop_foreach.runtimeconfig.json
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/bin/Debug/net10.0/Loop_foreach.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/bin/Debug/net10.0/Loop_foreach.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/refint/Loop_foreach.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/Loop_foreach.genruntimeconfig.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/loop_foreach/Loop_foreach/obj/Debug/net10.0/ref/Loop_foreach.dll
