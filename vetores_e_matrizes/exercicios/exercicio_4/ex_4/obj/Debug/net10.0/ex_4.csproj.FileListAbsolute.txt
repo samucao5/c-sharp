@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/bin/Debug/net10.0/ex_4
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/bin/Debug/net10.0/ex_4.deps.json
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/bin/Debug/net10.0/ex_4.runtimeconfig.json
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/bin/Debug/net10.0/ex_4.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/bin/Debug/net10.0/ex_4.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.AssemblyInfo.cs
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/refint/ex_4.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ex_4.genruntimeconfig.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_4/ex_4/obj/Debug/net10.0/ref/ex_4.dll
