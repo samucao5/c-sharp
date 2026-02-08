@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/bin/Debug/net10.0/ex_10
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/bin/Debug/net10.0/ex_10.deps.json
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/bin/Debug/net10.0/ex_10.runtimeconfig.json
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/bin/Debug/net10.0/ex_10.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/bin/Debug/net10.0/ex_10.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.AssemblyInfo.cs
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/refint/ex_10.dll
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.pdb
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ex_10.genruntimeconfig.cache
+/home/samuel/codigos/C#/vetores_e_matrizes/exercicios/exercicio_10/ex_10/obj/Debug/net10.0/ref/ex_10.dll
