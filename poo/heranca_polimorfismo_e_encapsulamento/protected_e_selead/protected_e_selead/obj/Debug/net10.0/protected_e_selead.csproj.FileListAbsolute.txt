@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/bin/Debug/net10.0/protected_e_selead
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/bin/Debug/net10.0/protected_e_selead.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/bin/Debug/net10.0/protected_e_selead.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/bin/Debug/net10.0/protected_e_selead.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/bin/Debug/net10.0/protected_e_selead.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/refint/protected_e_selead.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/protected_e_selead.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/protected_e_selead/protected_e_selead/obj/Debug/net10.0/ref/protected_e_selead.dll
