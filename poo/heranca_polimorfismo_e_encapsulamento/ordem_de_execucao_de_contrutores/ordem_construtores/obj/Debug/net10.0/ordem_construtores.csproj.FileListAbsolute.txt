@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/bin/Debug/net10.0/ordem_construtores
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/bin/Debug/net10.0/ordem_construtores.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/bin/Debug/net10.0/ordem_construtores.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/bin/Debug/net10.0/ordem_construtores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/bin/Debug/net10.0/ordem_construtores.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/refint/ordem_construtores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ordem_construtores.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/ordem_de_execucao_de_contrutores/ordem_construtores/obj/Debug/net10.0/ref/ordem_construtores.dll
