@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/bin/Debug/net10.0/polimorfismo
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/bin/Debug/net10.0/polimorfismo.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/bin/Debug/net10.0/polimorfismo.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/bin/Debug/net10.0/polimorfismo.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/bin/Debug/net10.0/polimorfismo.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/refint/polimorfismo.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/polimorfismo.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/polimorfismo/polimorfismo/obj/Debug/net10.0/ref/polimorfismo.dll
