@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/bin/Debug/net10.0/indexadores
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/bin/Debug/net10.0/indexadores.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/bin/Debug/net10.0/indexadores.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/bin/Debug/net10.0/indexadores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/bin/Debug/net10.0/indexadores.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/refint/indexadores.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/indexadores.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/indexadores/indexadores/obj/Debug/net10.0/ref/indexadores.dll
