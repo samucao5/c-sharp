@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/bin/Debug/net10.0/Virtual
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/bin/Debug/net10.0/Virtual.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/bin/Debug/net10.0/Virtual.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/bin/Debug/net10.0/Virtual.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/bin/Debug/net10.0/Virtual.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/refint/Virtual.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/Virtual.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/virtual_e_override/Virtual/obj/Debug/net10.0/ref/Virtual.dll
