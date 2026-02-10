@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/bin/Debug/net10.0/get_e_set
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/bin/Debug/net10.0/get_e_set.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/bin/Debug/net10.0/get_e_set.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/bin/Debug/net10.0/get_e_set.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/bin/Debug/net10.0/get_e_set.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/refint/get_e_set.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/get_e_set.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/get_e_set/get_e_set/obj/Debug/net10.0/ref/get_e_set.dll
