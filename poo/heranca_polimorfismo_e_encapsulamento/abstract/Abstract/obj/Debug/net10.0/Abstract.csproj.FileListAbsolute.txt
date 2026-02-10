@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/bin/Debug/net10.0/Abstract
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/bin/Debug/net10.0/Abstract.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/bin/Debug/net10.0/Abstract.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/bin/Debug/net10.0/Abstract.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/bin/Debug/net10.0/Abstract.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/refint/Abstract.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/Abstract.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/abstract/Abstract/obj/Debug/net10.0/ref/Abstract.dll
