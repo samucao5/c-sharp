@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/bin/Debug/net10.0/Namespaces
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/bin/Debug/net10.0/Namespaces.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/bin/Debug/net10.0/Namespaces.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/bin/Debug/net10.0/Namespaces.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/bin/Debug/net10.0/Namespaces.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/refint/Namespaces.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/Namespaces.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/namespaces/Namespaces/obj/Debug/net10.0/ref/Namespaces.dll
