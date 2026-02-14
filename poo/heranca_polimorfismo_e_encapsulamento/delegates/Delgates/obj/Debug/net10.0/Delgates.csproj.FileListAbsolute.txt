@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/bin/Debug/net10.0/Delgates
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/bin/Debug/net10.0/Delgates.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/bin/Debug/net10.0/Delgates.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/bin/Debug/net10.0/Delgates.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/bin/Debug/net10.0/Delgates.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/refint/Delgates.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/Delgates.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/delegates/Delgates/obj/Debug/net10.0/ref/Delgates.dll
