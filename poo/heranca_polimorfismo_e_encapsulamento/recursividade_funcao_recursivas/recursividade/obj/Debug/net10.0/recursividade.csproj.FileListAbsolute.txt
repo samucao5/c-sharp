@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/bin/Debug/net10.0/recursividade
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/bin/Debug/net10.0/recursividade.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/bin/Debug/net10.0/recursividade.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/bin/Debug/net10.0/recursividade.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/bin/Debug/net10.0/recursividade.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/refint/recursividade.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/recursividade.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/recursividade_funcao_recursivas/recursividade/obj/Debug/net10.0/ref/recursividade.dll
