@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.AssemblyInfo.cs
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/bin/Debug/net10.0/tratamento_de_excecoes
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/bin/Debug/net10.0/tratamento_de_excecoes.deps.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/bin/Debug/net10.0/tratamento_de_excecoes.runtimeconfig.json
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/bin/Debug/net10.0/tratamento_de_excecoes.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/bin/Debug/net10.0/tratamento_de_excecoes.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/refint/tratamento_de_excecoes.dll
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.pdb
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/tratamento_de_excecoes.genruntimeconfig.cache
+/home/samuel/codigos/C#/poo/heranca_polimorfismo_e_encapsulamento/tratamento_de_excecoes/tratamento_de_excecoes/obj/Debug/net10.0/ref/tratamento_de_excecoes.dll
