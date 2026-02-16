@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/bin/Debug/net10.0/arvores
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/bin/Debug/net10.0/arvores.deps.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/bin/Debug/net10.0/arvores.runtimeconfig.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/bin/Debug/net10.0/arvores.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/bin/Debug/net10.0/arvores.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.AssemblyInfo.cs
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/refint/arvores.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/arvores.genruntimeconfig.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_arvores/arvores/obj/Debug/net10.0/ref/arvores.dll
