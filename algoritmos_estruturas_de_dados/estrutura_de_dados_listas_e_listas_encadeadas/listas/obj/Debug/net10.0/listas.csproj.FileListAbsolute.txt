@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.AssemblyInfo.cs
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/bin/Debug/net10.0/listas
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/bin/Debug/net10.0/listas.deps.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/bin/Debug/net10.0/listas.runtimeconfig.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/bin/Debug/net10.0/listas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/bin/Debug/net10.0/listas.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/refint/listas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/listas.genruntimeconfig.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_listas_e_listas_encadeadas/listas/obj/Debug/net10.0/ref/listas.dll
