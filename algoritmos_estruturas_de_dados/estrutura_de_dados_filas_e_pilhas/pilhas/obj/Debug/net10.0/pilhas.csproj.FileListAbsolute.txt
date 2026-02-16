@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/bin/Debug/net10.0/pilhas
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/bin/Debug/net10.0/pilhas.deps.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/bin/Debug/net10.0/pilhas.runtimeconfig.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/bin/Debug/net10.0/pilhas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/bin/Debug/net10.0/pilhas.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.AssemblyInfo.cs
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/refint/pilhas.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/pilhas.genruntimeconfig.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/pilhas/obj/Debug/net10.0/ref/pilhas.dll
