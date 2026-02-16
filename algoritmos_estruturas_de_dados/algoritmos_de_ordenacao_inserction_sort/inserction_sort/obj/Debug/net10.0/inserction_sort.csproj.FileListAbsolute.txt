@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.AssemblyInfo.cs
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/bin/Debug/net10.0/inserction_sort
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/bin/Debug/net10.0/inserction_sort.deps.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/bin/Debug/net10.0/inserction_sort.runtimeconfig.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/bin/Debug/net10.0/inserction_sort.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/bin/Debug/net10.0/inserction_sort.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/refint/inserction_sort.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/inserction_sort.genruntimeconfig.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/algoritmos_de_ordenacao_inserction_sort/inserction_sort/obj/Debug/net10.0/ref/inserction_sort.dll
