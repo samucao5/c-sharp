@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.AssemblyInfo.cs
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/bin/Debug/net10.0/fila
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/bin/Debug/net10.0/fila.deps.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/bin/Debug/net10.0/fila.runtimeconfig.json
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/bin/Debug/net10.0/fila.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/bin/Debug/net10.0/fila.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/refint/fila.dll
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.pdb
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/fila.genruntimeconfig.cache
+/home/samuel/codigos/C#/algoritmos_e_estrutura_de_dados/estrutura_de_dados_filas_e_pilhas/fila/obj/Debug/net10.0/ref/fila.dll
