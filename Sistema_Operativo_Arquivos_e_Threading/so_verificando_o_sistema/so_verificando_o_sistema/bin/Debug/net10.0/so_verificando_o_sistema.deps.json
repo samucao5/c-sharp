@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "so_verificando_o_sistema/1.0.0": {
+        "runtime": {
+          "so_verificando_o_sistema.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "so_verificando_o_sistema/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

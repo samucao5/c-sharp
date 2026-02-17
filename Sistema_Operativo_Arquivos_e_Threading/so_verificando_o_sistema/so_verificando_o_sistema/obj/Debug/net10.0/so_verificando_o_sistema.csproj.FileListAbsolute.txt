@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.AssemblyInfo.cs
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/bin/Debug/net10.0/so_verificando_o_sistema
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/bin/Debug/net10.0/so_verificando_o_sistema.deps.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/bin/Debug/net10.0/so_verificando_o_sistema.runtimeconfig.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/bin/Debug/net10.0/so_verificando_o_sistema.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/bin/Debug/net10.0/so_verificando_o_sistema.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/refint/so_verificando_o_sistema.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/so_verificando_o_sistema.genruntimeconfig.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_verificando_o_sistema/so_verificando_o_sistema/obj/Debug/net10.0/ref/so_verificando_o_sistema.dll
