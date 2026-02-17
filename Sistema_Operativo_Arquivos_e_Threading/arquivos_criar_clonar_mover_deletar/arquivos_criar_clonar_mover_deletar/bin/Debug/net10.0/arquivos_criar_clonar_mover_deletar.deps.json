@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "arquivos_criar_clonar_mover_deletar/1.0.0": {
+        "runtime": {
+          "arquivos_criar_clonar_mover_deletar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arquivos_criar_clonar_mover_deletar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
