@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.AssemblyInfo.cs
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/bin/Debug/net10.0/so_obtendo_informacoes
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/bin/Debug/net10.0/so_obtendo_informacoes.deps.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/bin/Debug/net10.0/so_obtendo_informacoes.runtimeconfig.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/bin/Debug/net10.0/so_obtendo_informacoes.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/bin/Debug/net10.0/so_obtendo_informacoes.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/refint/so_obtendo_informacoes.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/so_obtendo_informacoes.genruntimeconfig.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/so_obtendo_informacoes/so_obtendo_informacoes/obj/Debug/net10.0/ref/so_obtendo_informacoes.dll
