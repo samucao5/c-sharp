@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/bin/Debug/net10.0/arquivos_introducao
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/bin/Debug/net10.0/arquivos_introducao.deps.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/bin/Debug/net10.0/arquivos_introducao.runtimeconfig.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/bin/Debug/net10.0/arquivos_introducao.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/bin/Debug/net10.0/arquivos_introducao.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.AssemblyInfo.cs
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/refint/arquivos_introducao.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/arquivos_introducao.genruntimeconfig.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_introducao/arquivos_introducao/obj/Debug/net10.0/ref/arquivos_introducao.dll
