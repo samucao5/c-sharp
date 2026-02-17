@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.AssemblyInfo.cs
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/bin/Debug/net10.0/leitura_e_escrita
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/bin/Debug/net10.0/leitura_e_escrita.deps.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/bin/Debug/net10.0/leitura_e_escrita.runtimeconfig.json
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/bin/Debug/net10.0/leitura_e_escrita.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/bin/Debug/net10.0/leitura_e_escrita.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/refint/leitura_e_escrita.dll
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.pdb
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/leitura_e_escrita.genruntimeconfig.cache
+/home/samuel/codigos/C#/sistema_operativo_arquivos_e_threading/arquivos_leitura_e_escrita/leitura_e_escrita/obj/Debug/net10.0/ref/leitura_e_escrita.dll
