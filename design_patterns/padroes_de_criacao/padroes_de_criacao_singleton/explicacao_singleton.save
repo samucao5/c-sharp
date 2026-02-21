@@ -1,0 +1,35 @@
+o que e o singleton
+o padrão de criação garante que uma classe tenha apenas uma instância e fornece um ponto global de acesso para essa instância.
+
+Problema:
+A aplicação precisa de uma, e apenas uma, instância do objeto.
+Garantir que uma classe possui somente uma instância e fornecer um ponto de acesso global a ela.
+
+solução:
+Definir um ponto de acesso global (método static)
+
+Construtor privado ou protected, dependendo se as subclasses devem ter acesso.
+
+Bloco de criação poderia ser synchronized para maior seguranças em ambientes multithread.
+
+A instância Única poderia ser pré-construida.
+
+Aplicações
+
+Conexões entre bancos de dados:
+pode ser útil ter uma única instancia do objeto de conexão para evitar sobrecarga de recursos e gerenciar eficientemente as conexões.
+
+
+Registro de Logs:
+Para registrar eventos em um sistema, é comum utilizar um objeto de um log. Um singleton pode garantir que apenas uma instancia do objeto de log exista para centralizar e gerenciar os registros.
+
+Contadores e identificadores:
+Em sistemas distribuídos ou concorrentes, um singleton pode ser usado para garantir a consistência ao gerar identificadores únicos ou contar eventos.
+
+Gerenciadores de Janelas / configurações:
+Um singleton pode ser usado para garantir que apenas uma instancia do gerenciador de configuração exista.
+
+
+
+
+

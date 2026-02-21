@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/bin/Debug/net10.0/singleton
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/bin/Debug/net10.0/singleton.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/bin/Debug/net10.0/singleton.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/bin/Debug/net10.0/singleton.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/bin/Debug/net10.0/singleton.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/refint/singleton.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/singleton.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_singleton/singleton/obj/Debug/net10.0/ref/singleton.dll
