@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/bin/Debug/net10.0/factory_method
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/bin/Debug/net10.0/factory_method.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/bin/Debug/net10.0/factory_method.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/bin/Debug/net10.0/factory_method.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/bin/Debug/net10.0/factory_method.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/refint/factory_method.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/factory_method.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_factory_method/factory_method/obj/Debug/net10.0/ref/factory_method.dll
