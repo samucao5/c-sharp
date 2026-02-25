@@ -1,0 +1,35 @@
+Abstract Factory
+visa fornecer uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
+Problema:
+Uma framework precisa de padronizar um modelo arquitetónico para uma gama de aplicações, mas permitir que aplicações individuais definam os seus próprios objetos e forneçam a sua instanciação.
+
+solução
+Um método estático de uma classe retorna um objeto do tipo dessa classe;
+
+Uma das fábricas de componentes encarregar-se-á da criação dos objetos;
+
+clientes não conhece as classes concretas.
+
+Factory Method e Abstract Factory
+
+Abstract Factory
+
+Visa criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas. Ele fornece uma interface para criar esses objetos, deixando a escolha da implementação específicas para as subclasses.
+
+Factory Method
+
+Tem o objetivo de delegar a responsabilidade de criação de objetos para subclasses. Ele define uma interface para criar um objeto, mas permite que as subclasses decidam qual classe concreta Instanciar.
+
+Aplicações
+
+Banco de dados
+Pode ser aplicado criar famílias de classes de conexão, comandos SQL e outros objetos relacionados, permitindo que o sistema trabalhe com diferentes bancos de dados sem modificar o código principal.
+
+Aplicativos Multiplataforma
+Pode ser aplicado para criar famílias de objetos relacionados, como classes de janelas, menus e outros componentes de GUI, adaptando-se as especificidades de cada plataforma.
+
+
+
+
+

@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/bin/Debug/net10.0/abstract_factory
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/bin/Debug/net10.0/abstract_factory.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/bin/Debug/net10.0/abstract_factory.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/bin/Debug/net10.0/abstract_factory.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/bin/Debug/net10.0/abstract_factory.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/refint/abstract_factory.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/abstract_factory.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_abstract_factory/abstract_factory/obj/Debug/net10.0/ref/abstract_factory.dll
