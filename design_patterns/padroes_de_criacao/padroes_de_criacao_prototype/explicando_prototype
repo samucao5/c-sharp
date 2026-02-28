@@ -1,0 +1,24 @@
+Prototype
+É utilizado para criar novos objetos duplicando um objeto existente, conhecido como protótipo.
+
+Isso permite que você copie objetos sem depender de suas classes concretas.
+
+O padrão Prototype é útil quando a criação de um novo objeto é caro em termo de tempo e recursos, e você deseja novos objetos com base em um modelo existente.
+
+Aplicações 
+
+Redução de custos de criação de objetos:
+Quando a criação de novos objetos é cara em termos de tempo e recursos, clonar um protótipo existente pode ser mais eficiente do que criar um novo objeto do zero.
+
+Configuração dinâmica de objetos:
+Permite configurar objetos complexos em tempo de execução com base em protótipos existentes, existentes, evitando a necessidade de configuração manual detalhada.
+
+Criação de objetos complexos:
+Útil quando os objetos a serem criados têm muitas partes complexas e queremos evitar a complexidade da construção manual repetitiva.
+
+Gerenciamento de estados:
+Quando diferentes estados de um objeto podem ser representados por diferentes clones de um protótipo base, facilitando a troca entre estados.
+
+ 
+
+ 

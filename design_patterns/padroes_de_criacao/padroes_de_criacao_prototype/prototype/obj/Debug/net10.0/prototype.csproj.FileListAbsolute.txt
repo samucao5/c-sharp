@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/bin/Debug/net10.0/prototype
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/bin/Debug/net10.0/prototype.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/bin/Debug/net10.0/prototype.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/bin/Debug/net10.0/prototype.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/bin/Debug/net10.0/prototype.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/refint/prototype.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/prototype.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_prototype/prototype/obj/Debug/net10.0/ref/prototype.dll
