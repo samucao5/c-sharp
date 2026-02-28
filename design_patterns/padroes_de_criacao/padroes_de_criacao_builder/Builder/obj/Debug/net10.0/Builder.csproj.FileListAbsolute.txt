@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/bin/Debug/net10.0/Builder
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/bin/Debug/net10.0/Builder.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/bin/Debug/net10.0/Builder.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/bin/Debug/net10.0/Builder.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/bin/Debug/net10.0/Builder.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/refint/Builder.dll
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/Builder.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_de_criacao/padroes_de_criacao_builder/Builder/obj/Debug/net10.0/ref/Builder.dll
