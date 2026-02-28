@@ -1,0 +1,16 @@
+Builder
+Permite separar a construção de um objeto completo da sua representação, de modo que o mesmo processo de construção possa criar diferentes representações.
+
+Esse padrão é útil quando a construção de um objeto envolve várias etapas completas ou quando existem muitas variáveis que influenciam a criação do objeto.
+
+Aplicações
+configuração de objetos completos:
+Quando a criação de um objeto requer uma inicialização complexa com muitos parâmetros opcionais ou dependentes.
+
+Criação de Objetos Imutáveis:
+Em linguagens que suportam imutabilidade, o padrão Builder pode ser usado para criar objetos imutáveis passo a passo.
+Testes de Unidade:
+Em testes de unidade, o padrão Builder pode ser útil para criar objetos de teste complexos, configurando apenas as partes necessárias para o teste específico.
+
+
+
