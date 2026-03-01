@@ -1,0 +1,21 @@
+Adapter
+Permite que objetos com interfaces incompatíveis trabalhem juntos (objetos com interfaces diferentes), permitindo que eles interajam sem que precisem ser modificados.
+
+Problema:
+Existem uma ferramenta gráfica de texto pronta, mas o programa de desenho só trabalha com formas
+
+Solução
+Criar um adaptador que converte a interface de um objeto para o outro o entender.
+
+Aplicações
+
+Reutilização de Componentes Legados
+Você pode usar o padrão Adapter para adaptar as interfaces dos componentes legados para as interfaces do novo sistema.
+
+Adaptação de Interfaces de Banco de dados
+Pode ser usado para adaptar as interfaces específicas de cada banco de dados para uma interface comum dentro da aplicação.
+
+Adaptação de Formatos de Dados
+Pode ser usado para adaptar esses Formatos para um formato de dados comum dentro da aplicação.
+
+
