@@ -1,0 +1,27 @@
+Decorator
+É usado para adicionar funcionalidades a objetos dinamicamente sem a necessidade de alterar suas classes. Isso é feito criando uma classe decoradora que "envolve" a classe original, implementando a mesma interface.
+
+Fornece uma alternativa flexível à herança como mecanismo de extensão.
+
+Um projeto que utilize decorator pode vir a ter muitos objetos pequenos e parecidos.
+
+Sistema de Janelas e Interfaces Gráficas:
+Um sistema de Janelas pode começar com uma janela básica e adicionar funcionalidades como bordas, barras de rolagem, botões de fechar, etc. Cada um usando decoradores diferentes.
+
+Sistema de Pagamento
+Adicionar diferentes métodos de pagamentos ou validações adicionais.
+
+Um pagamento básico pode ser decorado para incluir validação de cartão de crédito, autenticação de dois fatores, etc.
+
+Validação de Dados
+Aplicar validações sequenciais em entradas de dados.
+
+Um campo de formulário pode ser decorado com validadores para verificar formato de e-mail, tamanho do texto, caracteres permitidos, etc.
+
+Transformação de Texto
+Processar textos com diferentes transformações como criptografia, compressão, remoção de espaços, etc.
+
+Um texto básico pode ser decorado para ser encriptado e depois comprimido.
+
+
+
