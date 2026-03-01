@@ -1,0 +1,26 @@
+Composite
+Permite que objetos sejam agrupados em estruturas de árvores para representar hierarquias parte-todo.
+
+Permite que clientes tratem dos objetos individuais e compostos de maneira uniforme
+
+Composição recursiva
+
+Isso é especialmente útil quando se trabalha com estruturas recursivas como árvores.
+
+Aplicações
+
+Sistemas de Arquivos:
+Diretórios contêm arquivos e outros diretórios,permitindo navegar em uma estrutura de árvore de forma uniforme.
+
+Interfaces Gráficas de usuário (GUIs):
+Componentes de interface, como janelas, painéis e botões, podem ser compostos em contêineres, permitindo a manipulação de grupos de componentes da mesma forma que componentes individuais.
+
+Automação e Robótica:
+Sistemas de controle onde componentes individuais (Sensores, atuadores) são agrupados em subsistemas maiores.
+
+E-commerce e Cesta de Compras:
+Estrutura de categorias de produtos e subcategorias em um site de comércio eletrônico.
+
+Redes de comunicação:
+Redes de dispositivos, onde cada nó pode ser um dispositivo individual ou uma rede de dispositivos.
+
