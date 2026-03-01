@@ -1,0 +1,14 @@
+Bridge
+Tem como principal objetivo desacoplar uma abstração da sua implementação, permitindo que ambas possam variar independentemente.
+
+É especialmente útil quando você deseja evitar uma explosão combinatória de classes derivadas que resultaria se você tentasse combinar todas as variações possíveis de uma abstração e sua implementação.
+
+Idêntico ao adapter mas com intenção diferente.
+
+Problema:
+Diferentes plataformas (Windows, macOS, Linux) têm diferentes APIs gráficas.
+
+Solução:
+Usar o Bridge para separar a lógica de desenho da interface específica da plataforma, permitindo que a interface de usuário funcione em múltiplas plataformas com diferentes implementações gráficas.
+
+
