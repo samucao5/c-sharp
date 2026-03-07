@@ -1,0 +1,30 @@
+Facade:
+Fornecer uma interface unificada para um conjunto de interfaces de um subsistema. Define uma interface de mais alto nível para tornar o uso dos subsistemas mais fácil.
+
+Problema:
+Clientes acessam vários subsistemas.
+
+Mudanças em algum subsistema demandam alterações em diversos clientes.
+
+solução:
+Introdução de um objeto facade que fornece uma interface simplificada e única ao sistema.
+
+Aplicações:
+Sistema de Bibliotecas de Software:
+Interface com APIs Complexas: Simplificar o uso de APIs complexas (como APIs de Gráficos, bibliotecas de rede, ou sistema de banco de dados) fornecendo uma interface mais amigável.
+
+Sistema Legados:
+Integração de Sistemas: Encapsular a complexidade dos sistemas legados para facilitar a integração com novos sistemas.
+
+Aplicações Empresariais:
+Sistemas de Gestão de clientes (CRM): Simplificar o acesso a múltiplos módulos como vendas, marketing e atendimento ao cliente.
+
+Interfaces de Usuário:
+Sistema de Interface Gráficas (GUI): Encapsular a lógica complexa de gerenciamento de janelas, eventos e renderização em uma interface mais simples.
+
+
+
+
+
+
+

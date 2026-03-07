@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/bin/Debug/net10.0/Facade
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/bin/Debug/net10.0/Facade.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/bin/Debug/net10.0/Facade.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/bin/Debug/net10.0/Facade.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/bin/Debug/net10.0/Facade.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/refint/Facade.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/Facade.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_facade/Facade/obj/Debug/net10.0/ref/Facade.dll
