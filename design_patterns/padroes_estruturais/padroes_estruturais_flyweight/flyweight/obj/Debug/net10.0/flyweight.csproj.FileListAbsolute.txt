@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/bin/Debug/net10.0/flyweight
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/bin/Debug/net10.0/flyweight.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/bin/Debug/net10.0/flyweight.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/bin/Debug/net10.0/flyweight.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/bin/Debug/net10.0/flyweight.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/refint/flyweight.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/flyweight.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_flyweight/flyweight/obj/Debug/net10.0/ref/flyweight.dll

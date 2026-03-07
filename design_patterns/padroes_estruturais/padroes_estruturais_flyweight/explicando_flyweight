@@ -1,0 +1,21 @@
+ Flyweight
+O padrão estrutural Flyweight é utilizado para minimizar o uso de memória ou custos computacionais ao compartilhar o máximo de dados possível com objetos semelhantes.
+ 
+ Problema
+Desenvolver um editor de texto onde cada caractere é representado por um objeto:
+ 
+Não haverá recursos (memória) suficiente para textos grandes.
+
+Aplicações
+Rederização de texto
+Sistema de renderização de texto, como os usados em editores de texto ou navegadores web, podem usar o Flyweight para compartilhar formas de letras comuns (glifos) entre diferentes documentos ou partes do mesmo documento.
+
+Cada glifo é armazenado uma vez, e suas instâncias são reutilizadas com diferentes estados extrínsecos, como posição e cor.
+
+Gestão de conexões
+Em aplicações que requerem muitas conexões de banco de dados, o Flyweight pode ser usado para gerenciar um pool de conexões reutilizáveis, reduzindo a sobrecarga de criação e destruição de conexões.
+
+Compiladores
+Em computadores, o Flyweight pode ser usado para compartilhar nodos de árvores de sintaxe abstrata (AST) comuns, economizando memórias ao compilar grandes programas.
+
+
