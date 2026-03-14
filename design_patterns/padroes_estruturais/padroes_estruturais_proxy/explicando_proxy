@@ -1,0 +1,28 @@
+Proxy
+o padrão estrutural Proxy é um padrão de design que permite a criação de um substituto ou placeholder para outro objeto a fim de controlar o acesso a ele.
+
+Tipos de Proxys
+Remote Proxy: Garante que o cliente possa acessar um objeto remoto.
+
+Virtual Proxy: Controla o acesso a um recurso que pode ser caro para criar.
+
+Protection Proxy: Controla o acesso ao objeto original com base em permissões.
+
+Aplicações
+
+Controle de Acesso:
+Utilizado para controlar o acesso a um objeto, permitindo que apenas usuários ou processos autorizados interajam com ele. Exemplo incluem proteção de recursos sensíveis e controle de acesso a APIs.
+
+Monitoramento e Logging:
+Implementação de um proxy para adicionar funcionalidades de monitoramento, logging ou outras atividades auxiliares sem modificar o objeto real.
+
+Conexões Remotas:
+Utilização de um proxy para encapsular a complexidade de comunicações remotas (por exemplo, chamadas de procedimentos remotos ou acesso a serviços distribuídos).
+
+Serviços Distribuídos:
+Utilização em ambientes distribuídos onde o proxy representa um objeto localizado em um servidor remoto, facilitando a interação com ele como se estivesse localmente.
+
+
+
+
+

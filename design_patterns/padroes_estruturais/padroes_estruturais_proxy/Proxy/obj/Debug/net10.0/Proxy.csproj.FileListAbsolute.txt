@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/bin/Debug/net10.0/Proxy
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/bin/Debug/net10.0/Proxy.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/bin/Debug/net10.0/Proxy.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/bin/Debug/net10.0/Proxy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/bin/Debug/net10.0/Proxy.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/refint/Proxy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/Proxy.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_estruturais/padroes_estruturais_proxy/Proxy/obj/Debug/net10.0/ref/Proxy.dll
