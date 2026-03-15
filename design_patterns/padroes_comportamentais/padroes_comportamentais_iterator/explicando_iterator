@@ -1,0 +1,26 @@
+Iterator
+O padrão Iterator é utilizado para acessar os elementos de um agregado de objetos sequencialmente sem expor sua representação subjacente.
+
+Problema:
+Cliente precisa acessar os elementos
+Cada coleção é diferente e não se quer expor a estrutura interna de cada um para o Cliente.
+
+Solução:
+Iterator fornece acesso sequencial aos elementos, independentemente da coleção.
+
+Aplicações:
+Acesso a coleções complexas:
+Permite percorrer elementos de coleções complexas (como árvores, grafos, etc.) de maneira simples e uniforme, sem expor a estrutura interna da coleção.
+
+Iteração sobre diferentes tipos de coleções:
+Facilita a interação sobre diferentes tipos de coleções(listas, conjuntos, mapas, etc.) usando um iterator comum, proporcionando uma interface consistente.
+
+Implementação de algoritmos genéricos:
+Permite a implementação de algoritmos genéricos que operam sobre coleções, independentemente de seu tipo específico, utilizando apenas a interface do Iterator. 
+
+Iteração sobre coleções grandes:
+É eficiente para iterar sobre coleções grandes, onde pode-se acessar os elementos conforme necessário, sem a necessidade de carregar todos os elementos de uma vez na memória.
+
+
+
+
