@@ -1,0 +1,22 @@
+Observer
+Ele é projetado para estabelecer uma dependência um para muitos entre objetos
+
+Quando um objeto muda de estado, todos os seus dependentes são notificados e atualizados automaticamente.
+
+Isso é útil em situações onde várias partes do sistema precisam reagir a mudanças em um objetos centralizado.
+
+Aplicações
+Monitoramento e Telemetria:
+Em Sistemas de monitoramento e Telemetria, onde múltiplos observadores podem estar interessados em reagir a mudanças em dados de performance ou status.
+
+Atualizações em Tempo Real:
+Em aplicações que necessitam de atualizações em tempo real, como feeds de notícias, sistemas de chat, monitoramento de sensores, etc., o padrão Observer é essencial para propagar de estado eficientemente.
+
+Logs e Auditing:
+Em sistemas que precisam manter registros de alterações, o padrão Observer pode ser usado para registrar automaticamente mudanças feitas por diferentes partes do sistemas.
+
+Notificações de sistemas Distribuídos:
+Em sistemas distribuídos, onde componentes precisam ser notificados sobre eventos que ocorrem em outros componentes remotos.
+
+
+
