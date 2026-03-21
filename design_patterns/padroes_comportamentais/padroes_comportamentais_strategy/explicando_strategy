@@ -1,0 +1,29 @@
+Strategy:
+Permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis. Este padrão permite que o algoritmo varie independentemente dos clientes que o utilizam.
+
+Problema:
+Existem problemas que possuem vários algoritmos que os solucionam;
+Ex: quebrar um texto em linhas.
+
+Separar estes algoritmos em classes específicas para serem reutilizados; permitir que sejam intercambiados e que os novos algoritmos sejam adicionados com facilidade.
+
+Solução:
+Comportamento é encapsulado em objetos de uma mesma família.
+
+Aplicações:
+
+Ordenação:
+Implementar diferentes algoritmos de ordenação (como quicksort, mergesort, heapsort) e permitir que o usuário escolha qual usar em tempo de execução.
+
+Comportamento de personagens em jogos:
+Definir diferentes estratégias de movimentação ou ataque para NPCs (personagens não jogáveis) em jogos, permitindo mudar a estratégia conforme o estado do jogo.
+
+Autenticação de Usuários:
+Implementar diferentes métodos de autenticação (senha, biometria, OAuth ) e selecionar dinamicamente o método apropriado conforme o contexto. 
+
+Formatação de Dados:
+Aplicar diferentes estratégias de formatação de saída para dados (como JSON, XML, CSV) dependendo da necessidade do cliente.
+
+
+
+

@@ -1,0 +1,14 @@
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/bin/Debug/net10.0/Strategy
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/bin/Debug/net10.0/Strategy.deps.json
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/bin/Debug/net10.0/Strategy.runtimeconfig.json
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/bin/Debug/net10.0/Strategy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/bin/Debug/net10.0/Strategy.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.AssemblyInfoInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.AssemblyInfo.cs
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.csproj.CoreCompileInputs.cache
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/refint/Strategy.dll
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.pdb
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/Strategy.genruntimeconfig.cache
+/home/samuel/codigos/C#/design_patterns/padroes_comportamentais/padroes_comportamentais_strategy/Strategy/obj/Debug/net10.0/ref/Strategy.dll
