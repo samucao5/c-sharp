@@ -1,0 +1,39 @@
+Introdução
+O .NET é uma plataforma de desenvolvimento criada pela Microsoft, destinada à construção e execução de aplicativos, oferecendo um ambiente consistente e abrangente para o desenvolvimento de software.
+
+Componentes
+
+ADO .NET 
+
+Acesso a Dados: Um conjunto de componentes que permitem acesso a fontes de dados, como banco de dados SQL.
+
+Desconectado e Conectado: Suporte para ambos os modelos de acesso a dados.
+
+Windows Forms e WPF (Windows Presentation Foundation)
+Desenvolvimento Desktop: Ferramentas para criar aplicações desktop ricas e interativas.
+
+Interface Gráfica: Windows Forms oferece uma abordagem mais tradicional, enquanto WPF permite interface mais sofisticadas e customizáveis com suporte para gráficos vetoriais.
+
+ASP .NET
+
+Desenvolvimento Web: plataforma para criar aplicações web dinâmicas.
+
+Web Forms e MVC: Web Forms para desenvolvimento mais rápido e MVC (Model-View-Controller) para maior controle sobre a arquitetura da aplicação.
+
+Evolução para .Net Core e .Net 5+
+
+Em resposta às necessidades de desenvolvimento multiplataforma e de código aberto, a Microsoft lançou o .Net Core em 2016.
+
+O .Net Core é uma reimplementação modular e cross-platform do .NET Framework.
+
+Posteriormente, a Microsoft unificou .Net Framework e .NET Core na plataforma .Net 5, lançada em novembro de 2020, e suas versões subsequentes. 
+
+Benefícios
+
+Produtividade do Desenvolvedor
+
+Desempenho e Escabilidade
+
+Segurança
+
+Manutenção e Atualização
