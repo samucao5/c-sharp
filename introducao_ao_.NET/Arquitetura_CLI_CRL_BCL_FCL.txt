@@ -1,0 +1,58 @@
+Introdução:
+O .NET é uma plataforma de desenvolvimento criada pela Microsoft, destinada à construção e execução de aplicativos, oferecendo um ambiente consistente e abrangente para o desenvolvimento de software.
+
+A arquitetura do .NET é composta por vários componentes inter-relacionados que trabalham juntos para fornecer um ambiente de desenvolvimento robusto e eficiente. 
+
+CIL (Common Intermediate Language)
+
+Definição:
+CIL é a linguagem intermediária na qual o código-fonte é compilado em .NET. É também conhecida como MSIL (Micorsoft Intermediate Language).
+
+Função:
+Quando você escreve código em uma linguagem .NET como C# ou VB.NET, ele é compilado em CIL. Esse código intermediário é então compilado em código nativo pelo CLR no momento da execução.
+
+CLR (Common Language Runtime)
+
+Definição:
+CLR é o ambiente de execução do .NET que gerencia a execução do código .NET.
+
+Função:
+CLR é responsável por transformar o CIL em código nativo que pode ser executado pela CPU do sistema. Também fornece um ambiente de execução seguro e robusto para aplicativos .NET.
+
+Base Class Library (BCL)
+
+Conjunto de APIs:
+A BCL fornece uma biblioteca abrangente de classes reutilizáveis que suportam funções básicas, como manipulação com sistema operacionais.
+
+Componentes Essenciais:
+Inclui classes para coleções, reflexão, threading, e outras funcionalidades comuns que simplificam o desenvolvimento de aplicativos.
+
+FCL (Framework Class Library)
+
+definição:
+FCL é uma biblioteca de classes padrão fornecida com o .NET framework. (Expande a BCL)
+
+função:
+Ela oferece um conjunto abrangente de funcionalidades reutilizáveis, incluindo classes para manipulação de arquivos, entrada/saída (I/O), acesso a dados, serviços web, interface de usuário, entre outras.
+
+Outros
+
+Common Type System (CTS)
+Tipo de Dados Comum: Define como tipos de dados são declarados, usados e gerenciados no ambiente de Runtime.
+Garante que objetos escritos em diferentes linguagens .NET possam interagir entre si.
+
+Common Language Specification (CLS)
+Interoperabilidade: Permite que código escrito em uma linguagem .NET possa ser utilizado por outras linguagens .NET.
+
+Metadata and Assemblies
+
+Assemblies:
+Unidades de implementação que contêm código compilado e metadata. Podem ser DLLs (bibliotecas) OU EXEs (executáveis).
+
+Metadata:
+Informações descritivas sobre o código, como tipos, membros e referências a outros assemblies. Utilizada pelo CLR para manipulação de código durante a execução.
+
+
+
+
+
