@@ -1,0 +1,14 @@
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\bin\Debug\net10.0\criando_arquivo.exe
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\bin\Debug\net10.0\criando_arquivo.deps.json
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\bin\Debug\net10.0\criando_arquivo.runtimeconfig.json
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\bin\Debug\net10.0\criando_arquivo.dll
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\bin\Debug\net10.0\criando_arquivo.pdb
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.AssemblyInfo.cs
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.dll
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\refint\criando_arquivo.dll
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.pdb
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\criando_arquivo.genruntimeconfig.cache
+C:\Users\samue\Music\C#\criacao_projeto_.NET\criando_arquivo\obj\Debug\net10.0\ref\criando_arquivo.dll

@@ -1,0 +1,40 @@
+Introdução:
+Criar um projeto em .NET envolve várias etapas, desde a configuração do ambiente de desenvolvimento até a implementação e teste da aplicação.
+
+Diferentes IDEs podem ser utilizadas:
+Visual Studio
+Visual Studio Code
+JetBrains Rider
+
+Fundamentos
+Criação do Arquivo:
+
+dotnet new console -n nome
+
+Execução do programa:
+
+dotnet run
+
+caso queira criar uma nova class
+
+dotnet new class
+
+Adicionar Dependências
+Pacotes NuGet (bibliotecas externas)
+
+dotnet add package NomeDoPacote
+
+Gerar aplicação:
+
+dotnet publish -c Release -o ./pasta
+
+
+
+estrutura:
+nome.cs -> arquivo principal 
+nome.csproj -> arquivo de configuração
+-c: modo de compilação Releade (otimiza o Código)
+-o: define o diretório
+
+
+
