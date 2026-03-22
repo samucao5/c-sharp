@@ -1,0 +1,49 @@
+Introdução
+O Visual Studio é um ambiente de desenvolvimento integrado (IDE) da Microsoft. Ele é amplamente utilizado para o desenvolvimento de aplicativos, sites, serviços e jogos.
+
+Linguagens:
+C#, F# e Visual Basic
+Python
+JavaScript, TypeScript, e outros.
+
+Características
+
+Editor de Código:
+Destaque de sintaxe, autocompletar, refatoração de código e sugestões em tempo real.
+
+Suporte a plugins e extensões para adicionar mais funcionalidades ao editor.
+
+Deputação e Testes:
+Ferramentas poderás de depuração que permitem definir pontos de interrupção, inspecionar variáveis, e rastrear a execução do código.
+
+Integração com frameworks de teste para teste para realizar testes unitários e de integração.
+
+Desenvolvimento Web e Mobile:
+Suporte para ASP.NET, HTML, CSS, JavaScript e frameworks populares com angular, React e Vue.js.
+
+Ferramentas para desenvolvimento de aplicativos móveis usando Xamarin ou MAUI.
+
+Azure e Serviços em Nuvem:
+Integração com Azure para facilitar o desenvolvimento e a implantação de aplicativos na nuvem.
+
+ferramentas para gerenciar recursos Azure, como bancos de dados, serviços web e muito mais.
+
+produtividade:
+
+IntelliSense: uma poderosa ferramenta de auto completar que sugere métodos, variáveis e snippets de código enquanto você digita.
+
+Live Share: Colaboração em tempo real, permitindo que desenvolvedores trabalhem juntos no mesmo código, mesmo estando em locais diferentes.
+
+Compilador e Ferramentas de Build:
+Ferramentas para compilar, construir e publicar aplicativos de forma eficiente.
+
+Suporte a diversos tipos de projetos, desde aplicativos de console até complexos sistemas empresariais.
+
+
+
+
+
+
+
+
+
