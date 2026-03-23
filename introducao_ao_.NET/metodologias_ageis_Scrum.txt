@@ -1,0 +1,73 @@
+Introdução
+O Scrum é uma metodologia ágil amplamente utilizada para gerenciar o desenvolvimento de software e outros tipos de projetos complexos.
+
+Ele foca na entrega de valor incremental e iterativo, promovendo a colaboração, flexibilidade e adaptação contínua às mudanças.
+
+Princípios
+
+Transparência:
+Todos os aspectos significativos do processo devem ser visíveis para aqueles que são responsáveis pelo resultado.
+
+Inspeção:
+Os usuários do Scrum devem frequentemente inspecionar os artefatos do Scrum e o progresso em direção a um objetivo para detectar variações indesejadas.
+
+Adaptação:
+Se um inspetor determina que um ou mais aspectos de um processo desviam-se dos limites aceitáveis e que o produto resultante será inaceitável, o processo ou o material sendo processado deve ser ajustado.
+
+Papeis no Scrum
+
+Product Owner (Dono do Produto):
+Responsável por maximizar o valor do produto resultante do trabalho da equipe de desenvolvimento. Ele gerencia o backlog e prioriza os itens a serem trabalhados.
+ 
+Scrum Master:
+Atua como um facilitador para a equipa de desenvolvimento e o Product Owner. Ele garante que o Scrum seja compreendido e seguido, remove impedimentos e facilita eventos Scrum.
+
+Equipe de Desenvolvimento:
+Um grupo auto-organizado e multifuncional de profissionais que fazem o trabalho de entregar um incremento potencialmente liberável de "Produto Pronto" no final de cada Sprint.
+
+Eventos:
+
+Sprint:
+Um período de tempo fixo (geralmente de duas a quatro semanas) durante o qual um incremento de trabalho "Pronto" é criado. Os Sprints têm uma duração consistente ao longo do desenvolvimento.
+
+Sprint Planning:
+uma reunião no início de cada Sprint onde o trabalho a ser realizado no Sprint é planejado.
+
+Daily Scrum:
+Uma reunião diária onde a equipe de desenvolvimento sincroniza suas atividades e cria plano para as próximas 24 horas.
+
+Sprint Review:
+Uma reunião no final do Sprint para inspecionar o incremento e adaptar o Product backlog, se necessário.
+
+Artefatos
+
+Product Backlog:
+Uma lista ordenada de tudo o que é conhecido para ser necessário no produto. É uma fonte única de requisitos para qualquer mudança a ser feita no produto.
+
+Sprint Backlog:
+O conjunto de itens do Product Backlog selecionados para o Sprint, juntamente como um plano para entregar o incremento do produto e realizar o objetivo do Sprint.
+
+Fluxo de trabalho
+
+Criação de product Backlog:
+O product Owner define a prioriza os itens do Product Backlog.
+
+Planejamento do Sprint:
+A equipe Scrum seleciona itens do Product Backlog para trabalhar durante o Sprint e cria um Sprint Backlog.
+
+Execução do Sprint:
+A equipe de desenvolvimento trabalha nos itens do Sprint Backlog, realizando reunião diárias de sincronização.
+
+Revisão e Retrospectiva do Sprint:
+No final do sprint, a equipe revisa o incremento entregue e realiza uma retrospectiva para identificar melhorias no processo.
+
+Benefícios
+
+Flexibilidade e Adaptabilidade:
+O Scrum permite a adaptação rápida às mudanças nos requisitos do mercado ou do cliente.
+
+Entrega contínua de valor:
+Pequenos incrementos entregues frequentemente permitem a liberação rápida de funcionalidade utilizáveis.
+
+Transparência e Visibilidade:
+A transparência do progresso e dos impedimentos ajuda a identificar e resolver problemas rapidamente.
