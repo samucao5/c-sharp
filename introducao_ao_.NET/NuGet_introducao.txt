@@ -1,0 +1,32 @@
+Introdução
+
+NuGet é o gerenciador de pacotes oficial para a plataforma .NET. Ele facilita a adição, atualização e gerenciamento de bibliotecas externas e dependências em projetos .NET.
+ 
+Ao usar NuGet, os desenvolvedores podem integrar rapidamente funcionalidades de terceiros ou reutilizar códigos entre diferentes projetos, sem precisar incluir manualmente os arquivos e dependências.
+
+Funcionamentos
+
+Pacotes:
+
+Um pacote NuGet é uma unidade de código reutilizável que contém o código compilado (DLLs), scripts e outras informações, como dependências.
+
+Os pacotes são distribuídos como arquivos .nupkg, que são arquivos compactados contendo o código, metadados e outros recursos. 
+
+Funcionamento
+
+NuGet Gallery (nuget.org):
+
+nuget.org é o repositório oficial onde os pacotes públicos são hospedados. Os desenvolvedores podem procurar pacotes aqui e adiciona-los aos seus projetos.
+
+Desenvolvedores também podem publicar seus próprios pacotes neste repositórios para que outros possam usá-los.
+
+Nuget CLI e Ferramentas:
+
+Nuget CLI (command Line Interface): Ferramenta de linha de comando que permite criar, publicar e gerenciar pacotes NuGet.
+
+Package Manager Console: Integrado ao Visual Studio, permite executar comandos NuGet dentro do ambiente de desenvolvimento.
+
+Interface Gráfica do Gerenciador de Pacotes: Disponível no Visual Studio, oferece uma maneira fácil de buscar e instalar pacotes NuGet sem precisar usar a linha de comando.
+
+
+
