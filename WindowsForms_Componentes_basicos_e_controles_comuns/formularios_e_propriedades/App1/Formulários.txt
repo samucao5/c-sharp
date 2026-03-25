@@ -1,0 +1,5 @@
+Formulários:
+Formulários desempenham a função da "Janela".
+
+Possuem diferentes propriedades, eventos e comportamentos.
+
