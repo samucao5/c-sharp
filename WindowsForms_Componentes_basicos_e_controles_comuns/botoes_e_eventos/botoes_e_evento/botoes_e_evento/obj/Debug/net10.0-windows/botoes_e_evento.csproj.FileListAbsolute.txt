@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\bin\Debug\net10.0-windows\botoes_e_evento.exe
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\bin\Debug\net10.0-windows\botoes_e_evento.deps.json
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\bin\Debug\net10.0-windows\botoes_e_evento.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\bin\Debug\net10.0-windows\botoes_e_evento.dll
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\bin\Debug\net10.0-windows\botoes_e_evento.pdb
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.Form1.resources
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.dll
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\refint\botoes_e_evento.dll
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.pdb
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\botoes_e_evento.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\botoes_e_eventos\botoes_e_evento\botoes_e_evento\obj\Debug\net10.0-windows\ref\botoes_e_evento.dll

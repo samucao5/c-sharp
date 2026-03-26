@@ -1,0 +1,3 @@
+Botões e Eventos:
+Os botões desempenham a função de permitir que o usuário interaja com o programa.
+Eventos são quem permite essas interação. Eventos são associados a um método e permitem que o método seja executado quando o evento for chamado.
