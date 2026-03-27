@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Abertura_de_novos_formularios/1.0.0": {
+        "runtime": {
+          "Abertura_de_novos_formularios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abertura_de_novos_formularios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

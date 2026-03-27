@@ -1,0 +1,3 @@
+Abertura de novos formulários:
+Para abrir um formulário e necessário instanciar um objeto da classe do formulário.
+Formulários vão sempre possuir construtores.
