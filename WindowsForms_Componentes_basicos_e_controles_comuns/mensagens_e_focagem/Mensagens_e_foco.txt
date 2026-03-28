@@ -1,0 +1,3 @@
+Mensagens e foco:
+Para exibir uma pequena mensagem ao usuário não é necessário criar um novo formulário.
+Existem caixas de mensagens que podem ser chamadas a qualquer momento e também a opção de focar num componente.

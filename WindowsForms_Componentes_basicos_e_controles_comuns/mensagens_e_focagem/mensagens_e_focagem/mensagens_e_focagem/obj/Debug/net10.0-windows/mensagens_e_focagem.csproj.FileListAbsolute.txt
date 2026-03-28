@@ -1,0 +1,17 @@
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\bin\Debug\net10.0-windows\mensagens_e_focagem.exe
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\bin\Debug\net10.0-windows\mensagens_e_focagem.deps.json
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\bin\Debug\net10.0-windows\mensagens_e_focagem.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\bin\Debug\net10.0-windows\mensagens_e_focagem.dll
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\bin\Debug\net10.0-windows\mensagens_e_focagem.pdb
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.Form1.resources
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.dll
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\refint\mensagens_e_focagem.dll
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.pdb
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\ref\mensagens_e_focagem.dll
+C:\Users\samue\Music\C#\componetes\mensagens_e_focagem\mensagens_e_focagem\mensagens_e_focagem\obj\Debug\net10.0-windows\mensagens_e_focagem.Properties.Resources.resources
