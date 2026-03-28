@@ -1,0 +1,3 @@
+Caixas de Texto e Labels:
+2 componentes muito usados são as caixas de texto e labels.
+Caixas de texto permitem o usuário inserir um texto no programa e labels mostram um texto mas não permitem a sua edição manualmente.
