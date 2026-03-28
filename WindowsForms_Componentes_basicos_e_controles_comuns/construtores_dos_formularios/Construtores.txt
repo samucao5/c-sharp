@@ -1,0 +1,3 @@
+Construtores
+Os Construtores dos formulários possuem um papel importante no envio de dados entre eles.
+Formulários pai podem precisar de enviar dados a formulários filhos através dos construtores.

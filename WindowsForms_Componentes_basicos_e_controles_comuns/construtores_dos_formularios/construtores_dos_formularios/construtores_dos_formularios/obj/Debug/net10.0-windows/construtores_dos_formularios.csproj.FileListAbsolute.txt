@@ -1,0 +1,17 @@
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\bin\Debug\net10.0-windows\construtores_dos_formularios.exe
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\bin\Debug\net10.0-windows\construtores_dos_formularios.deps.json
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\bin\Debug\net10.0-windows\construtores_dos_formularios.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\bin\Debug\net10.0-windows\construtores_dos_formularios.dll
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\bin\Debug\net10.0-windows\construtores_dos_formularios.pdb
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.Form1.resources
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.Form2.resources
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.dll
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\refint\construtores_dos_formularios.dll
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.pdb
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\construtores_dos_formularios.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\construtores_dos_formularios\construtores_dos_formularios\construtores_dos_formularios\obj\Debug\net10.0-windows\ref\construtores_dos_formularios.dll
