@@ -1,0 +1,3 @@
+Checked Listbox:
+
+CheckedListBox é um componente que agrupa diferentes Checkboxs em uma lista.

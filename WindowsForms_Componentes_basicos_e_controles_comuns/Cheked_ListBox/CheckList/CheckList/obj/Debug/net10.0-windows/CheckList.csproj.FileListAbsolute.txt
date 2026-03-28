@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\bin\Debug\net10.0-windows\CheckList.exe
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\bin\Debug\net10.0-windows\CheckList.deps.json
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\bin\Debug\net10.0-windows\CheckList.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\bin\Debug\net10.0-windows\CheckList.dll
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\bin\Debug\net10.0-windows\CheckList.pdb
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.Form1.resources
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.dll
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\refint\CheckList.dll
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.pdb
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\CheckList.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\Cheked_ListBox\CheckList\CheckList\obj\Debug\net10.0-windows\ref\CheckList.dll
