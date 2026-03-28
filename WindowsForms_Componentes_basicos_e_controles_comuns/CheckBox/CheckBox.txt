@@ -1,0 +1,3 @@
+CheckBox:
+CheckBox é um componente que permite ao usuário inserir um valor booleano.
+(marcado -> true / desmarcado -> false)
