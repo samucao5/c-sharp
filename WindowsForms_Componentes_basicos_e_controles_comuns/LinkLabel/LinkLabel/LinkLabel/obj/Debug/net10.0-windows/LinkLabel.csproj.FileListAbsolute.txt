@@ -1,0 +1,17 @@
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net10.0-windows\LinkLabel.exe
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net10.0-windows\LinkLabel.deps.json
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net10.0-windows\LinkLabel.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net10.0-windows\LinkLabel.dll
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\bin\Debug\net10.0-windows\LinkLabel.pdb
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.Form1.resources
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.Properties.Resources.resources
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.dll
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\refint\LinkLabel.dll
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.pdb
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\LinkLabel.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\LinkLabel\LinkLabel\LinkLabel\obj\Debug\net10.0-windows\ref\LinkLabel.dll
