@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\bin\Debug\net10.0-windows\MounthCalendar.exe
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\bin\Debug\net10.0-windows\MounthCalendar.deps.json
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\bin\Debug\net10.0-windows\MounthCalendar.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\bin\Debug\net10.0-windows\MounthCalendar.dll
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\bin\Debug\net10.0-windows\MounthCalendar.pdb
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.Form1.resources
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.dll
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\refint\MounthCalendar.dll
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.pdb
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\MounthCalendar.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\MonthCalendar\MounthCalendar\MounthCalendar\obj\Debug\net10.0-windows\ref\MounthCalendar.dll
