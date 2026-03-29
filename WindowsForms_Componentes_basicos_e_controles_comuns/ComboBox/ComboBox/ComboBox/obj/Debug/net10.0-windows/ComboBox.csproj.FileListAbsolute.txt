@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\bin\Debug\net10.0-windows\ComboBox.exe
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\bin\Debug\net10.0-windows\ComboBox.deps.json
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\bin\Debug\net10.0-windows\ComboBox.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\bin\Debug\net10.0-windows\ComboBox.dll
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\bin\Debug\net10.0-windows\ComboBox.pdb
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.Form1.resources
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.dll
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\refint\ComboBox.dll
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.pdb
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ComboBox.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes\ComboBox\ComboBox\ComboBox\obj\Debug\net10.0-windows\ref\ComboBox.dll

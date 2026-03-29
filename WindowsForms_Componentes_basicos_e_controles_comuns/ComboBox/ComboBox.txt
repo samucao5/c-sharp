@@ -1,0 +1,2 @@
+ComboBox:
+ComboBox funciona como uma caixa de listagem onde o usuário pode escolher entre diferentes opções de uma lista.
