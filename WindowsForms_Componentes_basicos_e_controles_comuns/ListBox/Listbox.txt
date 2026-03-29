@@ -1,0 +1,2 @@
+Listbox:
+Listbox é uma lista com várias opções para o usuário, funciona igual a uma ComboBox. 
