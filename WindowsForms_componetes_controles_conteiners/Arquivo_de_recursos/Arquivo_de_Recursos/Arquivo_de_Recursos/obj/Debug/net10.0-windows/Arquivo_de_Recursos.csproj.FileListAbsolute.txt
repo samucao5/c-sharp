@@ -1,0 +1,17 @@
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\bin\Debug\net10.0-windows\Arquivo_de_Recursos.exe
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\bin\Debug\net10.0-windows\Arquivo_de_Recursos.deps.json
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\bin\Debug\net10.0-windows\Arquivo_de_Recursos.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\bin\Debug\net10.0-windows\Arquivo_de_Recursos.dll
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\bin\Debug\net10.0-windows\Arquivo_de_Recursos.pdb
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.Properties.Resources.resources
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.dll
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\refint\Arquivo_de_Recursos.dll
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.pdb
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\Arquivo_de_Recursos.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\Arquivo_de_recursos\Arquivo_de_Recursos\Arquivo_de_Recursos\obj\Debug\net10.0-windows\ref\Arquivo_de_Recursos.dll
