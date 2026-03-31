@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\bin\Debug\net10.0-windows\GroupBox_e_RadioButtons.exe
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\bin\Debug\net10.0-windows\GroupBox_e_RadioButtons.deps.json
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\bin\Debug\net10.0-windows\GroupBox_e_RadioButtons.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\bin\Debug\net10.0-windows\GroupBox_e_RadioButtons.dll
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\bin\Debug\net10.0-windows\GroupBox_e_RadioButtons.pdb
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.dll
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\refint\GroupBox_e_RadioButtons.dll
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.pdb
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\GroupBox_e_RadioButtons.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\GroupBox_e_RadioButtons\obj\Debug\net10.0-windows\ref\GroupBox_e_RadioButtons.dll
