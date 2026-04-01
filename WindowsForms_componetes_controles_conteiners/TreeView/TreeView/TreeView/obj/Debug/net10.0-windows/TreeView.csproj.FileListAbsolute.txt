@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\bin\Debug\net10.0-windows\TreeView.exe
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\bin\Debug\net10.0-windows\TreeView.deps.json
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\bin\Debug\net10.0-windows\TreeView.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\bin\Debug\net10.0-windows\TreeView.dll
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\bin\Debug\net10.0-windows\TreeView.pdb
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.dll
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\refint\TreeView.dll
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.pdb
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\TreeView.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\TreeView\TreeView\TreeView\obj\Debug\net10.0-windows\ref\TreeView.dll
