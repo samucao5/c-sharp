@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\bin\Debug\net10.0-windows\Barra_de_progresso.exe
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\bin\Debug\net10.0-windows\Barra_de_progresso.deps.json
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\bin\Debug\net10.0-windows\Barra_de_progresso.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\bin\Debug\net10.0-windows\Barra_de_progresso.dll
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\bin\Debug\net10.0-windows\Barra_de_progresso.pdb
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.dll
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\refint\Barra_de_progresso.dll
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.pdb
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\Barra_de_progresso.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\Barra_de_progresso\Barra_de_progresso\Barra_de_progresso\obj\Debug\net10.0-windows\ref\Barra_de_progresso.dll
