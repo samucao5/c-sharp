@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "NotifyIcon_e_ContextMenuStrip/1.0.0": {
+        "runtime": {
+          "NotifyIcon_e_ContextMenuStrip.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NotifyIcon_e_ContextMenuStrip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
