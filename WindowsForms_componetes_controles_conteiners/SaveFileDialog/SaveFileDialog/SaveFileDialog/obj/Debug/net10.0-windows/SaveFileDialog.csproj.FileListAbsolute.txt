@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\bin\Debug\net10.0-windows\SaveFileDialog.exe
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\bin\Debug\net10.0-windows\SaveFileDialog.deps.json
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\bin\Debug\net10.0-windows\SaveFileDialog.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\bin\Debug\net10.0-windows\SaveFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\bin\Debug\net10.0-windows\SaveFileDialog.pdb
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\refint\SaveFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.pdb
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\SaveFileDialog.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\SaveFileDialog\SaveFileDialog\obj\Debug\net10.0-windows\ref\SaveFileDialog.dll
