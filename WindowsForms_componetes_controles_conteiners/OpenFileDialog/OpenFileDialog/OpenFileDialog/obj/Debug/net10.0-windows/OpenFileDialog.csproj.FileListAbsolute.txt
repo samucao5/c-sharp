@@ -1,0 +1,16 @@
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\bin\Debug\net10.0-windows\OpenFileDialog.exe
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\bin\Debug\net10.0-windows\OpenFileDialog.deps.json
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\bin\Debug\net10.0-windows\OpenFileDialog.runtimeconfig.json
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\bin\Debug\net10.0-windows\OpenFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\bin\Debug\net10.0-windows\OpenFileDialog.pdb
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.Form1.resources
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.csproj.GenerateResource.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.AssemblyInfoInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.AssemblyInfo.cs
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.csproj.CoreCompileInputs.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\refint\OpenFileDialog.dll
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.pdb
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\OpenFileDialog.genruntimeconfig.cache
+C:\Users\samue\Music\C#\componetes_controle\SaveFileDialog\OpenFileDialog\OpenFileDialog\obj\Debug\net10.0-windows\ref\OpenFileDialog.dll
