@@ -1,0 +1,27 @@
+Funcionamento:
+O funcionamento do banco de dados vai estar dividido em 2 partes importantes:
+Conexão com o banco de dados
+Colocação de Dados num DataTable
+
+Conexão 
+
+Conexão com o Banco:
+Envolve criar uma variável do tipo SQLiteConnection, especificando o diretório do banco e abrindo a conexão.
+
+Uma das maneiras mais eficientes de fazer este processo é criando um método que cria e retorna a conexão. Dessa maneira não e preciso a abrir muitas vezes.
+
+Esta conexão vai nos permitir executar comandos no Banco de Dados e executar diferentes métodos.
+
+
+Retirada de Dados Do Banco:
+Todos os dados retirados do banco tem de ficar armazenados num DataTable.
+
+DataTable:
+DataTable é um tipo de dado que representa uma tabela ou porção de uma tabela de dados, retirados do banco de dados.
+
+SQLiteDataAdapter:
+O DataAdapter tem como função preencher o DataTable. Representa um conjunto de comandos SQL e uma Conexão.
+
+Exemplo
+conexão().CreateCommand()
+ 

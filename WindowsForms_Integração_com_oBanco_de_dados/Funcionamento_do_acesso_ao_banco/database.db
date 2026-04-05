@@ -1,0 +1,9 @@
+SELECT * FROM produtos;
+
+INSERT INTO produtos (nome_produto)
+VALUES 
+("pera"),
+("TV"),
+("computador");
+
+SELECT nome_produto FROM produtos WHERE id_produto = 1;
