@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPJuU65/y+Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Music\\C#\\windowsForms_banco_de_dados\\Insercao_de_dados_num_datatable\\inserindo_dados_num_datatable\\inserindo_dados_num_datatable\\inserindo_dados_num_datatable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
