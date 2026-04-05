@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HGEDpVchwCA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Music\\C#\\windowsForms_banco_de_dados\\Estrutura_de_um_banco_de_dados_tabelas_dados_comandos\\estrutura_banco_de_dados\\estrutura_banco_de_dados\\estrutura_banco_de_dados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
