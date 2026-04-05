@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVP80THYq7w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samue\\Music\\C#\\windowsForms_banco_de_dados\\Criação_da_conexao_com_o_banco\\conexao_com_o_banco\\conexao_com_o_banco\\conexao_com_o_banco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samue\\.nuget\\packages\\system.data.sqlite\\2.0.3\\system.data.sqlite.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
