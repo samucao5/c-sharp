@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "projeto_ferramentaria/1.0.0": {
+        "runtime": {
+          "projeto_ferramentaria.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "projeto_ferramentaria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
