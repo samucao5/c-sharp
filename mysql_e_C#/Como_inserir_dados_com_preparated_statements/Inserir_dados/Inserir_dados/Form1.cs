@@ -5,7 +5,7 @@ namespace Inserir_dados
     {
 
         private MySqlConnection conn;
-        private System.String data_source = "datasource=localhost;username=root;password=@Samuel5;database=db_agenda";
+        private System.String data_source = "datasource=localhost;username=root;password=;database=db_agenda";
 
         public Form1()
         { 
